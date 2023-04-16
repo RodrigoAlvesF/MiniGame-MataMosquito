@@ -1,1 +1,1 @@
-# MiniGame-MataMosquito
+# MiniGame-MataMosquito (Javascript)
